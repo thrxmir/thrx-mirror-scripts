@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "das ist ein test ..."
+echo "Das ist ein test ..."
