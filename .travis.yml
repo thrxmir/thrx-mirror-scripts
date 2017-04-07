@@ -1,0 +1,6 @@
+language: bash
+sudo: false
+script:
+  - ./build.sh
+notifications:
+email: false
